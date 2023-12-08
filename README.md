@@ -39,3 +39,5 @@ https://drive.google.com/file/d/1ptajq5BeVoRo0lcfrOw7OEi0UgyL4_G-/view?usp=shari
 
 ## Deployed Link
 
+https://crytofizz.netlify.app
+
