@@ -18,6 +18,9 @@ git clone https://github.com/gfaizank/crypto-fizz.git
 Install dependencies:
 npm install
 
+## Description
+
+The application has been made with React.js and Tailwind Css, along with state management done with the help of Context Api and Hooks for fetching data from the coinGecko API and also maintaining the saved coins in "Saved" section. I hope you'll like the project. Tailwind's unique plugin "tailwind scrollbar" has also been used for better UI experience.
 
 
 ## Start the Project
